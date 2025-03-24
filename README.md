@@ -1,2 +1,2 @@
 # ProjetoAplicado
-Repositório para estudo Projeto Aplicado
+Repositório para estudo  na disciplina de Projeto Aplicado
